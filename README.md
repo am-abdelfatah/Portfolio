@@ -1,6 +1,6 @@
 # Portfolio Guide
 
-Hello there stranger!
+Hello there!
 
 Welcome to this overview of my portfolio and the projects I've finished.
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/ahmed-m-abdlefatah) about my work.
