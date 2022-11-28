@@ -12,9 +12,10 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/ahmed-m-abdl
 
 
 ### CaseStudies
-| Project Name | Area | Description | Libraries | Link |   
+| Project Name | Area | Description | Libraries | Link(s) |   
 |---|---|---|---|---|
 | How Does a Bike-Share Navigate Speedy Success? | Marketing Analytics | A full case study acting as a capstone for [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) - Recommendations were given for the marketing director based on the different behavior of the riders, Peak usage during week days/months.| Project was completed in **R**. Libraries used: tidyverse, ggplot2, Janitor, readr, hms, lubridate | [Project Presentation](https://www.slideshare.net/AhmedAbdlefatah/how-does-a-bikeshare-navigate-speedy-success-254171865)   -   [Kaggle Notebook](https://www.kaggle.com/code/ahmedmabdelfatah/cyclistic-case-study)|
+|Exploring US Bike Share Data|Descriptive Analysis|A project for Udacity Professional Data Analysis Nano Degree, we made use of Python create an interactive experience, by a script that handles user inputs to explore data related to bike share systems for three major cities in the United States (Chicago, New York City, and Washington)|**Python** (Pandas and Numpy)|[Jupyter Notebook](https://github.com/am-abdelfatah/Udacity-Data-Analyst-Nanodegree/blob/main/project_1-us_bikeshare.ipynb)|
 
 
 ### Dashboards
